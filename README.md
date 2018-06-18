@@ -1,4 +1,4 @@
-# Les Rapaces de Gaps
+# Les Rapaces de Gap
 
 Dynamically managed storefront site of the hockey team Les Rapaçes de GAP with back-office administration.
 
